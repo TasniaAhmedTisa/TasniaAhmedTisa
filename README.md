@@ -1,4 +1,4 @@
-# Hi, I’m @TasniaAhmedTisa👋
+# Hi, I’m Tasnia Ahmed Tisa👋
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
