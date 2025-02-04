@@ -1,7 +1,12 @@
 <h1> Hi! Welcome to My Page.</h1>
 
 
-<p> I'm Tasnia Ahmed, a passionate web developer and a fresh graduate eager to build modern, responsive, and user-friendly websites. I specialize in HTML, CSS, and JavaScript and love working with Vite for fast and efficient development.</p>
+<p> I'm Tasnia Ahmed, a passionate web developer.</p>
+
+<h3>About Me</h3>
+<p>I am a Computer Science and Engineering graduate with a strong passion for modern, responsive, and user-friendly web development. I specialize in HTML, CSS, and JavaScript and enjoy leveraging Vite for fast and efficient development. Eager to continuously learn and grow, I am committed to building high-quality web applications that enhance user experience and performance. 🚀</p>
+<h3>Skills</h3>
+
 <h3>Things I code with</h3>
 
 <div align="left">
@@ -25,6 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
+
 
 ---
 <h1>GitHub Stats</h1>
