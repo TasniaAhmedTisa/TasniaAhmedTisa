@@ -1,17 +1,13 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator target="_blank" rel="noreferrer nofollow">Nuxt Tip: Managing Page Load States With useLoadingIndicator</a></li><li><a href=https://mokkapps.de/vue-tips/use-effect-scope-for-managing-and-cleaning-up-reactive-effects target="_blank" rel="noreferrer nofollow">Vue Tip: Use effectScope for Managing and Cleaning Up Reactive Effects</a></li><li><a href=https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests target="_blank" rel="noreferrer nofollow">Nuxt Tip: Parallel Fetch Requests</a></li><li><a href=https://mokkapps.de/blog/when-to-use-use-state-in-nuxt target="_blank" rel="noreferrer nofollow">When to Use useState in Nuxt</a></li><li><a href=https://mokkapps.de/vue-tips/nuxt-fetch-data-on-the-server-before-app-start target="_blank" rel="noreferrer nofollow">Nuxt Tip: Fetch Data on the Server Before App Start</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/147 target="_blank" rel="noreferrer nofollow">Weekly Vue News #183 - Managing Page Load States in Nuxt With useLoadingIndicator</a></li><li><a href=https://weekly-vue.news/issues/v2/146 target="_blank" rel="noreferrer nofollow">Weekly Vue News #182 - Use effectScope for Managing and Cleaning Up Reactive Effects</a></li><li><a href=https://weekly-vue.news/issues/v2/145 target="_blank" rel="noreferrer nofollow">Weekly Vue News #181 - Scroll to the Top Before Rendering a Nuxt Page</a></li><li><a href=https://weekly-vue.news/issues/v2/144 target="_blank" rel="noreferrer nofollow">Weekly Vue News #180 - Parallel Fetch Requests in Nuxt</a></li><li><a href=https://weekly-vue.news/issues/v2/143 target="_blank" rel="noreferrer nofollow">Weekly Vue News #179 - Win Two VueSchool Licenses</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
