@@ -1,4 +1,5 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"></img>
+![github banner](https://github.com/user-attachments/assets/78aacbca-505d-4fc6-b576-a264d9a07539)
+
 
 <h1> Hi! Welcome to My Page.</h1>
 
