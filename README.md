@@ -1,4 +1,4 @@
-![github banner](https://github.com/user-attachments/assets/78aacbca-505d-4fc6-b576-a264d9a07539)
+![Uploading image.png…]()
 
 
 <h1> Hi! Welcome to My Page.</h1>
