@@ -1,3 +1,5 @@
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"></img>
+
 <h1> Hi! Welcome to My Page.</h1>
 
 
@@ -17,8 +19,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NRCaGRMSZPAAxuP7wfVP6DPOtrlbhfrE/view?usp=sharing](https://drive.google.com/file/d/1NRCaGRMSZPAAxuP7wfVP6DPOtrlbhfrE/view?usp=sharing)
 
 - ⚡ Fun fact **In my free time, I like to play games**
-
-  <h3 align="left">Connect with me:</h3>
+- 
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tasniaahmedtisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasniaahmedtisha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tasniaahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tasniaahmed" height="30" width="40" /></a>
