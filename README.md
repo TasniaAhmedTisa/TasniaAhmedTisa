@@ -1,4 +1,4 @@
-![Header]("github-header-image.png")
+![github-header-image](https://github.com/user-attachments/assets/10a777c3-e5e3-48a7-996c-bdbb88e11a69)
 
 
 <h1> Hi! Welcome to My Page.</h1>
