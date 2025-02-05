@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Header]("github-header-image.png")
 
 
 <h1> Hi! Welcome to My Page.</h1>
